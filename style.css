@@ -1,0 +1,29 @@
+.navbar {
+    background-color:#f3f3f3;
+
+}
+
+.darkMode {
+    background-color: black;
+    color: rgb(240, 96, 185);
+}
+
+.darkMode .containerHeader {
+    background-color: black;
+    color: rgb(240, 96, 185);
+}
+
+.darkMode .navbar {
+    background-color: black;
+    color: rgb(240, 96, 185);
+}
+
+.darkMode .table {
+    background-color: black;
+    color: rgb(240, 96, 185);
+}
+
+.darkMode .contenedor {
+    background-color: black;
+    color: rgb(240, 96, 185);
+}
